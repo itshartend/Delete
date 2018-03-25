@@ -6,9 +6,9 @@ the bot can delete Links and Forward, Kick Or Mute Any User
 
 # Setup 
 
-To get your bot running make your token and WebHook for Startsing
+make your bot token and WebHook for Startsing
+go to File Manager.php and apply your token 
 
 ```
-define(''); token your bot
-
+define('your token');
 ```
