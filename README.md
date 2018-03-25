@@ -1,6 +1,6 @@
 # Delete 
 
-Only Admin can apply the bot in ur group 
+Only Admin can add the bot in your group 
 the bot can delete Links and Forward, Kick Or Mute Any User
 
 
